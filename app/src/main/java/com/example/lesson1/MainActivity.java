@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView tv = findViewById(R.id.main_tv);
         //tv.setGravity(Gravity.CENTER);
-        tv.setText("Lập trình Android 2022");
+        tv.setText("Lập trình Android 2022 - Buoi 2");
 
         Button btnClick = findViewById(R.id.main_btn);
         btnClick.setOnClickListener(new View.OnClickListener() {
